@@ -2,7 +2,6 @@
 # Copyright (C) 2015 Saurabh Gupta / ThemeZilla, themezillablog.wordpress.com
 #
 # Obtained from https://play.google.com/store/apps/details?id=com.themezilla.pixelui
-# Added to the build for convenience on devices that can't automatically rotate.
 #
 
 LOCAL_PATH := $(call my-dir)
