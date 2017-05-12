@@ -1,4 +1,8 @@
-# Copyright (C) 2017 F-Droid Limited and Contributors, www.f-droid.org
+# Copyright (C) 2017 F-Droid Limited and Contributors
+
+www.f-droid.org
+
+Contributors: https://gitlab.com/fdroid/fdroidclient/graphs/master
 
 Licensed under GPLv3: see LICENSE file
 
