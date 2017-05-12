@@ -11,3 +11,5 @@ Note: I did not build this, but retrieved a copy of the app from www.aptoide.com
 Nevertheless, here is a link to the source code to comply with GPL:
 
 Source: https://github.com/Aptoide/aptoide-client
+
+Unmodified APK.
