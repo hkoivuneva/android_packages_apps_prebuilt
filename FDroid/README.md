@@ -1,6 +1,6 @@
 # Copyright (C) 2017 F-Droid Limited and Contributors, www.f-droid.org
 
-License: see LICENSE file
+Licensed under GPLv3: see LICENSE file
 
 Note: I did not build this, but retrieved a copy of the app from www.f-droid.org
 
