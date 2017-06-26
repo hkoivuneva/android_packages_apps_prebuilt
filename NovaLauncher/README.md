@@ -2,6 +2,8 @@
 
 www.novalauncher.com
 
-Obtained from https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher
+Obtained from
+1: https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher
+2: https://play.google.com/store/apps/details?id=com.teslacoilsw.launcherclientproxy
 
-Unmodified APK used with permission (email) from TeslaCoil Software.
+Unmodified APKs used with permission (email) from TeslaCoil Software.
